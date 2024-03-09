@@ -1,0 +1,9 @@
+#root {
+  background-color: fff;
+  max-width: 1400px;
+  padding: 15px;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}

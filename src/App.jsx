@@ -1,4 +1,6 @@
 import './App.css';
+// import '~modern-normalize/modern-normalize.css';
+// import clsx from 'clsx';
 import userData from './userData.json';
 import Profile from './components/Profile';
 import friends from './friends.json';
